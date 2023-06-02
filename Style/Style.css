@@ -24,6 +24,16 @@ ul {
     padding: 0;
 }
 
+.sortbtn {
+    border-radius: 2rem;
+    width: 7rem;
+    height: 1.5rem;
+    margin-right: 2.5rem;
+    color: white;
+    background-color: #565656;
+    cursor: pointer;
+}
+
 #myInput {
     border-radius: 2rem;
     display: flex;
@@ -107,7 +117,7 @@ input {
 
 .addBtn {
     padding: .5rem;
-    width: 24%;
+    width: 18%;
     background: #565656;
     color: #ffffff;
     float: left;
